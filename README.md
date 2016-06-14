@@ -1,2 +1,2 @@
-# MarketSystem
-Small market system, this project was the first project I made with SQL and JAVA.
+# Camera and Galery Test
+Testing how Camera and Gallery intent works and how can I retrieve the picture.bmp to it into a imageview.
